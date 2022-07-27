@@ -1,0 +1,9 @@
+.main-component{
+    
+    @apply flex justify-center items-center h-screen;
+
+    h1{
+        @apply text-6xl text-purple-800;
+    }
+    
+}
